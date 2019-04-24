@@ -95,3 +95,18 @@ header > h1 {
        font-size: 20px;
        margin-top: 20px;
 }
+
+.green-glow {
+       border: 4px solid #2ecc71;
+       box-shadow: 0 0 10px #2ecc71;
+}
+
+.red-glow {
+       border: 4px solid #e74c3c;
+       box-shadow: 0 0 10px #c0392b;
+}
+
+.gray-glow {
+       border: 4px solid #95a5a6;
+       box-shadow: 0 0 10px #7f8c8d;
+}
